@@ -24,7 +24,7 @@ In this talk, we walked through how to integrate local notifications in a React 
 
 To follow along with this demo from scratch, watch the talk hosted by React Native EU.
 
-[Invertase](https://invertase.io/) have been kind enough to offer the first **100 attendees** of React Native EU, a free [Notifee](https://notifee.app/) license using code `RNEU`.
+[Invertase](https://invertase.io/) have been kind enough to offer the first **100 attendees** of React Native EU, a free [Notifee](https://notifee.app/) license using code `RNEU2021`.
 
 # Getting Started
 
