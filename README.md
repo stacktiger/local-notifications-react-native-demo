@@ -29,7 +29,7 @@ To follow along with this demo from scratch, watch the talk hosted by React Nati
 # Getting Started
 
 - Install required packages:
-  - `yarn install @notifee/react-native`
+  - `yarn add @notifee/react-native`
 - Install pods on iOS:
   - `npx pod install`
 - Run app on ios:
