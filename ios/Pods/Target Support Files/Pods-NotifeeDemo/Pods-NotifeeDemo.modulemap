@@ -1,6 +1,0 @@
-module Pods_NotifeeDemo {
-  umbrella header "Pods-NotifeeDemo-umbrella.h"
-
-  export *
-  module * { export * }
-}

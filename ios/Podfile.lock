@@ -318,7 +318,10 @@ PODS:
     - React-perflogger (= 0.64.2)
   - RNGestureHandler (1.10.3):
     - React-Core
-  - RNNotifee (1.11.1):
+  - RNNotifee (3.0.1):
+    - React-Core
+    - RNNotifee/NotifeeCore (= 3.0.1)
+  - RNNotifee/NotifeeCore (3.0.1):
     - React-Core
   - Yoga (1.14.0)
   - YogaKit (1.18.1):
@@ -494,10 +497,10 @@ SPEC CHECKSUMS:
   React-runtimeexecutor: a9904c6d0218fb9f8b19d6dd88607225927668f9
   ReactCommon: 149906e01aa51142707a10665185db879898e966
   RNGestureHandler: a479ebd5ed4221a810967000735517df0d2db211
-  RNNotifee: 972ac5fa257824fcf27a90821740510481625b08
+  RNNotifee: aeafe138adea11e0cf716188d2fe1b7dd850888d
   Yoga: 575c581c63e0d35c9a83f4b46d01d63abc1100ac
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
 
 PODFILE CHECKSUM: e616eba8a37591fec205f1494158a0f34196ff94
 
-COCOAPODS: 1.10.2
+COCOAPODS: 1.11.2
